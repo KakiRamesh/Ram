@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Artificial intelligence for Robotics"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: # URL
+venue: "BITS Pilani, Mechanical"
+date: 2024-01-15
+location: "Hyderabad, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Data Science & Machine Learning Instructor, led 15 fourth yesr students of different departments at BITS Pilani. Taught from the basics of machine learning to high end models to deploy in robots for various operations.   
