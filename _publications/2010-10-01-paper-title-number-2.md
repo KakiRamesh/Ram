@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "Identification of SMAW Surface Weld Defects Using Machine Learning"
 collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+category: conferences
+permalink: # URL
+excerpt: # URL
+date: 2022-09-30
+venue: 'Recent Advances in Materials Processing and Characterization'
+slidesurl: # URL
+paperurl: 'https://doi.org/10.1007/978-981-19-5347-7_28'
+citation: 'Ramesh, K., E. V. Ramana, L. Srikanth, C. Sri Harsha, and N. Kiran Kumar. "Identification of SMAW Surface Weld Defects Using Machine Learning." In Recent Advances in Materials Processing and Characterization: Select Proceedings of ICMPC 2021, pp. 339-350. Singapore: Springer Nature Singapore, 2022.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper presents a machine learning approach for identifying surface defects in shielded metal arc welding (SMAW) using high-resolution images. Applied various image processing techniques to extract geometrical features of welds, then built CNN and ResNet50 models to classify acceptable beads and surface defects, achieving over 98% accuracy for both models.

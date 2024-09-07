@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Nuts&bolts: YOLO-v5 and image processing based component identification system"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: # URL
+excerpt: # URL
+date: 2022-12-05
+venue: 'Engineering Applications of Artificial Intelligence'
+slidesurl: # URL
+paperurl: 'https://doi.org/10.1016/j.engappai.2022.105665'
+citation: 'Mushtaq, Faisel, Kaki Ramesh, Sandip Deshmukh, Tathagata Ray, Chandu Parimi, Praveen Tandon, and Pramod Kumar Jha. "Nuts&bolts: YOLO-v5 and image processing based component identification system." Engineering Applications of Artificial Intelligence 118 (2023): 105665.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper presents a deep learning and image processing approach for identifying mechanical fasteners in aerospace assembly lines. YOLO-v5 for component classification based on head and lateral shape is used and achieved 99.6% mean average precision. Also developed an image processing method to measure fastener dimensions, including thread pitch, with high accuracy (100% for standard sizes, max 0.05 mm error for pitch).

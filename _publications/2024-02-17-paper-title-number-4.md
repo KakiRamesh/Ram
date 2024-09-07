@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 4"
+title: "Thermal conductivity prediction of titania-water nanofluid: A case study using different machine learning algorithms"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: manuscripts
+permalink: # url
+excerpt: # url
+date: 2021-12-23
+venue: 'Case Studies in Thermal Engineering'
+paperurl: 'https://doi.org/10.1016/j.csite.2021.101658'
+citation: 'Sharma, Palash, K. Ramesh, R. Parameshwaran, and Sandip S. Deshmukh. "Thermal conductivity prediction of titania-water nanofluid: A case study using different machine learning algorithms." Case Studies in Thermal Engineering 30 (2022): 101658.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This study compares five machine learning algorithms (ANN, GBR, SVR, DTR, and RFR) for predicting the thermal conductivity of TiO2-water nanofluids using a dataset of 228 data points. The gradient boosting regression (GBR) algorithm performed best, achieving 99% accuracy on both training and test sets, with the study also finding that nanoparticle shape significantly influences thermal conductivity predictions.
