@@ -71,5 +71,6 @@ Patents
 202111054493).
 * "Assembly Inspection Method and System" - Filed in India (Patent No. 202211031628).
 
+Download CV [here](https://www.linkedin.com/in/kaki-ramesh-7a8948153/)
 
 More about me can find [here](https://www.linkedin.com/in/kaki-ramesh-7a8948153/)
