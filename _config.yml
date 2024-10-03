@@ -1,4 +1,4 @@
-w2# Welcome to Jekyll!
+# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -12,9 +12,9 @@ title                    : "Ramesh K"
 title_separator          : "-"
 name                     : &name "Ramesh K"
 description              : &description "personal description"
-url                      : https://kakiramesh.github.io/Ram.github.io/ # https://kakiramesh.github.io/Ram.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://kakiramesh.github.io/Ram.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Ram/kakiramesh.github.io"
+repository               : "kakiramesh.github.io/Ram.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,19 +24,19 @@ author:
   avatar           : "MyPic.jpg"
   name             : "Ramesh K"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate at BITS Pilani and Visiting Doctoral at Purdue University"
+  bio              : "PhD Candidate at BITS Pilani and Visiting Doctoral at Purdue University "
   location         : "West Lafayette, IN"
   employer         : "Purdue University"
   uri              : # URL
   email            : "rkaki@purdue.edu" 
 
-  # Academic websites
+  # Academic websitesP
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=ypcxv4AAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-8531-5401"
+  linkedin         : "kaki-ramesh-7a8948153"
   semantic         : # URL
-  pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Ramesh_Kaki"
 
   # Repositories and software development
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "kaki-ramesh-7a8948153"
+  pubmed           : # URL  
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -210,17 +210,15 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  
 
 
 # These settings control how pages and collections are included in the site
@@ -270,14 +268,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+   # Awards
   - scope:
       path: ""
-      type: talks
+      type: Awards
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
+      comment: true
 
 
 # Sass/SCSS
