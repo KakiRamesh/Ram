@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+w2# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -21,7 +21,7 @@ repository               : "Ram/kakiramesh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "MyPic.jpg"
+  avatar           : "New2.jpg"
   name             : "Ramesh K"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate at BITS Pilani and Visiting Doctoral at Purdue University"
