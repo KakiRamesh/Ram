@@ -21,7 +21,7 @@ repository               : "Ram/kakiramesh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "New2.jpg"
+  avatar           : "MyPic.jpg"
   name             : "Ramesh K"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate at BITS Pilani and Visiting Doctoral at Purdue University"
