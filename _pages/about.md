@@ -13,8 +13,8 @@ redirect_from:
 
 📚 Research intersets are computer vision algorithms, numerical approaches, robotics design, microcontrollers, machine learning for manufacturing applications, Gen AI and Augmented Reality solutions. In general, I have a strong interest in creating design and computer-based solutions for the fields of automation and robotics. 
 
-🧑‍🎓 For additional information regarding my educational and professional background, please refer [here](https://kakiramesh.github.io/Ram.github.io//cv/). 
+🧑‍🎓 For additional information regarding my educational and professional background, please refer [here](https://kakiramesh.github.io/Ram//cv/). 
 
-📝 Additionally, a comprehensive list of my published works can be found [here](https://kakiramesh.github.io/Ram.github.io//publications/). 
+📝 Additionally, a comprehensive list of my published works can be found [here](https://kakiramesh.github.io/Ram//publications/). 
 
 🤝 I am seeking postdoctoral or full-time research employment in academia or industry starting from August 2025. 
