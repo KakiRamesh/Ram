@@ -5,7 +5,7 @@
 
 📚 Research intersets are computer vision algorithms, numerical approaches, robotics design, microcontrollers, machine learning for manufacturing applications, Gen AI and Augmented Reality solutions. In general, I have a strong interest in creating design and computer-based solutions for the fields of automation and robotics.
 
-🧑‍🎓 For additional information regarding my educational and professional background, please refer here.
+🧑‍🎓 For additional information regarding my educational and professional background, please refer [here](https://kakiramesh.github.io/Ram//publications/)
 
 📝 Additionally, a comprehensive list of my published works can be found here.
 
