@@ -7,6 +7,6 @@
 
 🧑‍🎓 For additional information regarding my educational and professional background, please refer [here](https://kakiramesh.github.io/Ram//publications/)
 
-📝 Additionally, a comprehensive list of my published works can be found here.
+📝 Additionally, a comprehensive list of my published works can be found [here](https://kakiramesh.github.io/Ram//CV/)
 
 🤝 I am seeking postdoctoral or full-time research employment in academia or industry starting from August 2025.
