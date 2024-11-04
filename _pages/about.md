@@ -18,3 +18,5 @@ redirect_from:
 📝 Additionally, a comprehensive list of my published works can be found [here](https://kakiramesh.github.io/Ram//publications/). 
 
 🤝 I am seeking postdoctoral or full-time research employment in academia or industry starting from August 2025. 
+
+ Path.png
