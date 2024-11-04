@@ -20,6 +20,6 @@ redirect_from:
 🤝 I am seeking postdoctoral or full-time research employment in academia or industry starting from August 2025. 
 
 
-![alt text](https://github.com/[KakiRamesh]/[Ram]/blob/[images]/Career Path.png?raw=true)
+![plot](https://github.com/[KakiRamesh]/[Ram]/blob/[images]/Career Path.png?raw=true)
 
 
