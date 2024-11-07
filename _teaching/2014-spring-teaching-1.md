@@ -8,6 +8,6 @@ date: 2021-01-15
 location: "Hyderabad, India"
 ---
 
-Led a 60 engineering students of BITS Pilani in every semester, taught an intensive course on Design and Modeling in Auto CAD for 3 yeras. 
+Over a three-year period, I spearheaded the instruction of 60 engineering students from BITS Pilani each semester. The curriculum centred on an intensive course in Design and Modeling using design software, providing comprehensive training in computer-aided design techniques.
 
 
