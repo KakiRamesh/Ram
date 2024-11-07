@@ -1,11 +1,11 @@
 ---
 title: "Artificial intelligence for Robotics"
 collection: teaching
-type: "Undergraduate course"
+type: "Post-Graduate course"
 permalink: # URL
 venue: "BITS Pilani, Mechanical"
 date: 2024-01-15
 location: "Hyderabad, India"
 ---
 
-Data Science & Machine Learning Instructor, led 15 fourth yesr students of different departments at BITS Pilani. Taught from the basics of machine learning to high end models to deploy in robots for various operations.   
+As a Data Science and Machine Learning Instructor, I mentored a diverse group of 15 postgraduate students from various departments at BITS Pilani. The comprehensive curriculum spanned from foundational machine learning concepts to advanced models, culminating in their practical application for robotic operations deployment.
