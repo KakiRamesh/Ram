@@ -37,9 +37,9 @@ detection and data segmentation. I converted pixel measurements into real-world 
   
 Skills
 ======
-* Engineering Tools: AutoCAD, CATIA, CNC Train, Master CAM, FLEXSIM, Automation Studio
+* Engineering Tools: AutoCAD, CATIA, CNC Train, Master CAM, FLEXSIM, Automation Studio, Unity, MRTK
 * Programming Languages: Python, C/C++, Basic knowledge of C language
-* AI and Machine Learning: Computer Vision, Artificial Intelligence, Machine Learning, Deep Learning, GANs
+* AI and Machine Learning: Computer Vision, LLMs, AI, ML, DL, GenAI, HCI
 * Web Development: GUI, Django
 * Databases: MongoDB, SQL, Postgres
 * Deep Learning Frameworks: Pytorch, Tensorflow, Tensorboard
