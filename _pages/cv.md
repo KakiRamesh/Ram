@@ -67,9 +67,8 @@ Publications
   
 Patents
 ======
-* "Machine Vision Based Assembly Line Components Identification System" - Published in India (Patent No. 
-202111054493).
-* "Assembly Inspection Method and System" - Filed in India (Patent No. 202211031628).
+* "Machine Vision Based Assembly Line Components Identification System" - Granted (Patent No. 556554).
+* "Assembly Inspection Method and System" - published (Patent No. 202211031628).
 
 Download CV [here](https://KakiRamesh.github.io/Ram/files/Kaki Ramesh_CV.pdf)
 
