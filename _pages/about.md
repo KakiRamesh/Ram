@@ -19,8 +19,6 @@ redirect_from:
 
 🤝 I am seeking postdoctoral or full-time research employment in academia or industry starting from August 2025. 
 
-![Career Path](../images/Career%20Path.png)
-
 
 
 
