@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Career_Path"
-permalink: /career/
+permalink: /Career/
 author_profile: true
 redirect_from:
   - /resume
