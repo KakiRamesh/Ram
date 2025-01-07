@@ -17,6 +17,6 @@ Additional information: [🧑‍🎓 Profile](https://kakiramesh.github.io/Ram//
 
 Recent News:
 
-Patent granted: Machine vision based assembly line components identification system (No: 556554))
+Patent granted: Machine vision based assembly line components identification system (No: 556554)
 
 
